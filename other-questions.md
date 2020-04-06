@@ -1,7 +1,7 @@
  - cd Documents
  - cd GitHub
  - cd ryusei2000
- - mkdir a1-news
+ - mkdir imgs
  - git add README.md
  - git commit -m "Made news article"
  - git push
