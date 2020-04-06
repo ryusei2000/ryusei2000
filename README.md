@@ -3,7 +3,7 @@ With the Olympics postponed due to **Coronavirus**, many Olympians have another 
 
 > Yet when the news finally came, it was the ultimate mixed blessing: a lifeline for some and a new set of challenges that may be insurmountable because of financial, age or health issues for others.
 
-![Timer to Olympic start date](a1-news/timer.jpg)
+![Timer to Olympic start date](imgs/imgs.jpg)
 
 Of note:
 
